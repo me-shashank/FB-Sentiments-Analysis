@@ -1,6 +1,6 @@
 # Fb_Analysis
 
-This is a way of analyzing your facebook profile data.
+this is a way of analyzing your facebook profile data.
 
 On the basis of the contents of a particular statement it classifies it as positive,negative or neutral.
 
